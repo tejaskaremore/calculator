@@ -1,0 +1,22 @@
+.Cal-Com{
+    border: 2px solid black;
+    height: 708px;
+}
+.Cal-Button-wrapper{
+
+    margin-top: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 120px;
+    border: 2px solid green;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+.cal-button-row{
+    display: flex;
+    justify-content: space-around;
+    
+}
